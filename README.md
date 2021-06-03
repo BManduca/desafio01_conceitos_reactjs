@@ -22,7 +22,7 @@ Este será um desafio onde o objetivo principal é desenvolver uma pequena aplic
 
 ## Executando a aplicação 🚀
 
-- Efetuar clone repositório => git clone 
+- Efetuar clone repositório => git clone https://github.com/BManduca/desafio01_conceitos_reactjs
 - Acessar o diretório desafio01_conceitos_reactjs => instalar as dependências executando o yarn
 - Dar início ao servidor em modo de desenvolvimento => yarn dev
 - Acessar aplicação => localhost:8080 no navegador
